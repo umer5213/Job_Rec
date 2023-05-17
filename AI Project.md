@@ -149,7 +149,7 @@ The job recommendation system has the potential to revolutionize the job search
 
 process by providing users with personalized job recommendations based on the information
 
-provided in their CV.The CV we used to train the model belongs to a business owner. 
+provided in their CV.
 
 Therefore, the recommendations provided by the system are shown below:
 
